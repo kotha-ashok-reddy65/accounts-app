@@ -302,7 +302,7 @@ console.log(anyDeposits);
 console.log(movements.every((mov) => mov > 0));
 console.log(account4.movements.every((mov) => mov > 0));
 //
-//sorting
+//sortings
 //sort works only on strings
 const arr = ["jonas", "samrio", "kamil", "refi"];
 console.log(arr.sort());
